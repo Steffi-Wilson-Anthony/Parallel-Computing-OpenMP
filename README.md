@@ -1,5 +1,6 @@
 # Parallel-Computing-OpenMP
 ### Length of Longest Increasing Subsequence
+### Input: single integer (length of the array)
 
 - We initialize an array with random integers
 - To find the length of the required subsequence we use a dynamic programming approach with slight modification.
