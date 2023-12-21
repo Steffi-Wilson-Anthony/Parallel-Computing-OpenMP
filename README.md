@@ -19,4 +19,4 @@
 #### Efficiency Analysis
 - This may not be efficient for small number of elements.
 - This could be done done by dividing the array into three subarrays but that wouldn't be efficient since more time will be required for in the process of updation.
-- Since this is a dynamic programming problem with a dependencies there is limit to the parallizability of the problem. 
+- Since this is a dynamic programming problem with dependencies there is limit to the parallizability of the problem. 
